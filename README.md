@@ -1,6 +1,6 @@
 # **Baby J.A.R.V.I.S.**
 
-This is a Generative AI agent project using Langchain, NVIDIA foundation models, and Streamlit to make a productive assistant agent that can preform mutliple fuctions using different APIs including Notion notes, Google calendar, Gmail, DuckDuckGo search, and Google Scholar search
+BABY J.A.R.V.I.S. is an assistant agent that uses Langchain and various tools to enhance productivity. It leverages NVIDIA foundation models with Langchain to access Notion, Google Calendar, Gmail, DuckDuckGo, and Google Scholar. It can perform tasks such as creating and summarizing notes, searching for information and scholarly papers, scheduling events, and managing emails. Two of the tools are custom tools I built utilizing the Notion API and Google Calendar API. The interface, built with Streamlit, allows easy access from any internet-connected device.
 
 ## Caution ⚠️
 
