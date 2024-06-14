@@ -15,7 +15,7 @@ First thing first, you need to get all of the resources you need in order for th
 | Notion | API key & Page permissions & Page ID | https://developers.notion.com/docs/create-a-notion-integration |
 | Gmail | Credentials json | https://developers.google.com/gmail/api/quickstart/python#authorize_credentials_for_a_desktop_application |
 | Google Scholar | API key | https://serpapi.com/ |
-| Nvidia Nim | API key | https://build.nvidia.com/explore/discover |
+| Nvidia Foundation Model | API key | https://build.nvidia.com/explore/discover |
 
 ## Video Tutorial
 
